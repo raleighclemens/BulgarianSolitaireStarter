@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=pileSizes
+comment0.target=Piles(int[])
+comment0.text=\n\ \ \ \ \ \ Create\ a\ set\ of\ piles\ with\ a\ known\ (non-random)\ configuration\ for\ testing.\n\ \ \ \ \ \ @param\ pileSizes\ an\ array\ of\ numbers\ whose\ sum\ is\ 45\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Return\ the\ string\ representation\ of\ the\ piles.\n\ @return\ the\ string\ representation\ of\ the\ piles.\n
+comment2.params=
+comment2.target=void\ playRound()
+comment2.text=\n\ \ \ \ \ \ Play\ one\ round\ of\ the\ game.\n
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=index
+comment4.target=int\ getElement(int)
+numComments=5
